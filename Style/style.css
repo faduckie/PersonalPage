@@ -62,21 +62,23 @@ ul, ol{
 }
 
 #socials{
-    justify-content: justify;
     display:flex;
-    height:50px;
+    justify-content: justify;
+    height:20%;
+    width:20%;
     margin-top: -40px;
 }
 
 #headShot{
     float:left;
     padding-right: 20px;
-    height:250px;   
+    height:25%;   
+    width:25%;
 }
 
 #abtme{
     padding-top: 50px;
-    margin-bottom: -15px;
+    margin-bottom: -25px;
 }
 
 #experience, #education, #coursework, #skills, #projects{
