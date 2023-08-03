@@ -1,0 +1,93 @@
+@font-face {
+    font-family: cute;
+    src: url(../CustomFonts/cute.ttf);
+}
+
+@font-face {
+    font-family: cuteScript;
+    src: url(../CustomFonts/everything.otf);
+}
+
+html{
+    font-size: 16px;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-color:#EDE4FF;
+    text-align: justify;
+}
+
+p{
+    text-align: justify;
+    font-size: 1rem;
+    margin-bottom: -15px;
+    padding: 10px;
+}
+
+h1{
+    font-family: 'cute', sans-serif;
+    font-size: 4rem;
+    color:#6A5ACD;
+    margin-bottom: -30px;
+    padding-bottom: 0px;
+    text-align: justify;
+}
+
+h2{
+    font-family: 'cuteScript',serif;
+    font-size: 3.5rem;
+    font-weight: 2;
+    color: #6A5ACD;
+    margin-top: -30px;
+    text-align: justify;
+}
+
+h3{
+    font-family: 'cuteScript', serif;
+    font-size: 2.5rem;
+    font-weight: 2;
+    color:#6A5ACD;
+    padding-left: 2px;
+}
+
+td{
+    font-size: 1rem;
+    text-align:left;
+    padding-left: 20px;
+}
+
+ul, ol{
+    font-size: 1rem;
+}
+
+#socials{
+    justify-content: justify;
+    display:flex;
+    height:50px;
+    margin-top: -40px;
+}
+
+#headShot{
+    float:left;
+    padding-right: 20px;
+    height:250px;
+    width: 250px
+    
+}
+
+#abtme{
+    padding-top: 50px;
+    margin-bottom: -15px;
+}
+
+#experience, #education, #coursework, #skills, #projects{
+    padding-top: 50px;
+    margin-bottom: -2px;
+    margin-top: -10px;
+}
+
+.bold-text{
+    font-weight: bold;
+    color:black;
+}
