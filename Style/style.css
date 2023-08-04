@@ -21,7 +21,7 @@ body{
 p{
     text-align: justify;
     font-size: 1rem;
-    margin-bottom: -15px;
+    margin-bottom: -50px;
     padding: 20px;
 }
 
@@ -52,6 +52,10 @@ h3{
     padding-left: 2px;
 }
 
+table{
+    margin-bottom: -15px;
+}
+
 td{
     font-size: 1rem;
     padding-left: 20px;
@@ -64,6 +68,11 @@ ul{
 
 .list-li li{
     display: list-item;
+}
+
+.list{
+    float: left;
+    width: 49%;
 }
 
 img.profile{
