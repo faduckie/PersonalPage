@@ -71,6 +71,7 @@ ul{
 }
 
 .list{
+    display: block;
     float: left;
     width: 49%;
 }
