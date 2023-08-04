@@ -31,6 +31,7 @@ h1{
     color:#6A5ACD;
     margin-bottom: -30px;
     padding-bottom: 0px;
+    padding-left: 30px;
     text-align: justify;
 }
 
@@ -41,6 +42,7 @@ h2{
     color: #6A5ACD;
     margin-top: -30px;
     margin-bottom: -5px;
+    padding-left: 40px;
     text-align: justify;
 }
 
@@ -82,10 +84,10 @@ img.profile{
     height: 250px;
 }
 
-img.socials{
-    height:25px;
-    width:25px;
-    margin-top: -500000px;
+.socials-padding{
+    height:50px;
+    width:50px;
+    padding-left: 50px;
 }
 
 #abtme{
