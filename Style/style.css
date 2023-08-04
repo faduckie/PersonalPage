@@ -109,3 +109,10 @@ img.profile{
 .text-right{
     text-align: right;
 }
+
+Footer{
+    float:"left";
+    font-size: 3rem;
+    font-weight: 2px;
+    font-family: serif;
+}
