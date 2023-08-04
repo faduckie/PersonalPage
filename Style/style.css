@@ -58,8 +58,9 @@ td{
     padding-left: 20px;
 }
 
-ul, ol{
+ul{
     font-size: 1rem;
+    list-style-image: url(../Images/purpleFlower.png);
 }
 
 img.profile{
