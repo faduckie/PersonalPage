@@ -1,0 +1,118 @@
+@font-face {
+    font-family: cute;
+    src: url(../CustomFonts/cute.ttf);
+}
+
+@font-face {
+    font-family: cuteScript;
+    src: url(../CustomFonts/everything.otf);
+}
+
+html{
+    font-size: 16px;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-color:#EDE4FF;
+    text-align: justify;
+}
+
+p{
+    text-align: justify;
+    font-size: 1rem;
+    margin-bottom: -30px;
+    padding: 20px;
+}
+
+h1{
+    font-family: 'cute', sans-serif;
+    font-size: 4rem;
+    color:#6A5ACD;
+    margin-bottom: -30px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    text-align: justify;
+}
+
+h2{
+    font-family: 'cuteScript',serif;
+    font-size: 3.5rem;
+    font-weight: 2;
+    color: #6A5ACD;
+    margin-top: -30px;
+    margin-bottom: -5px;
+    padding-left: 40px;
+    text-align: justify;
+}
+
+h3{
+    font-family: 'cuteScript', serif;
+    font-size: 2.5rem;
+    font-weight: 2;
+    color:#6A5ACD;
+    padding-left: 2px;
+}
+
+table{
+    margin-bottom: -15px;
+}
+
+td{
+    font-size: 1rem;
+    padding-left: 20px;
+}
+
+ul{
+    font-size: 1rem;
+    list-style-image: url(../Images/purpleFlower.png);
+}
+
+.list-li li{
+    display: list-item;
+}
+
+.list{
+    display: block;
+    float: left;
+    width: 49%;
+}
+
+img.profile{
+    padding-right: 20px;
+    float: right;
+    height: 250px;
+}
+
+.socials-padding{
+    height:50px;
+    width:50px;
+    padding-left: 50px;
+}
+
+#abtme{
+    padding-top: 50px;
+    margin-bottom: -25px;
+}
+
+#experience, #education, #coursework, #skills, #projects{
+    padding-top: 50px;
+    margin-bottom: -2px;
+    margin-top: -10px;
+}
+
+.bold-text{
+    font-weight: bold;
+    color:black;
+}
+
+.text-right{
+    text-align: right;
+}
+
+Footer{
+    float:"left";
+    font-size: 3rem;
+    font-weight: 2px;
+    font-family: serif;
+}
